@@ -1,2 +1,2 @@
 # Movies
-Data Analysis semester 1 at DECI level 3 2022
+Data Analysis semester 1 project at DECI level 3 2022-2023
